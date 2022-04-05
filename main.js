@@ -1,1 +1,1 @@
-alert("Witaj na stronie");
+alert("Siemanko");
